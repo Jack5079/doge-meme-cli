@@ -1,0 +1,23 @@
+{
+  "name": "doge-meme-cli",
+  "version": "1.0.0",
+  "description": "Not funny; didn't laugh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack5079/doge-meme-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack5079/doge-meme-cli/issues"
+  },
+  "homepage": "https://github.com/Jack5079/doge-meme-cli#readme",
+  "dependencies": {
+    "console-png": "^1.2.1"
+  }
+}
