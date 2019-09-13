@@ -11,7 +11,11 @@
     "url": "git+https://github.com/Jack5079/doge-meme-cli.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Jack5079",
+    "email": "29169102+Jack5079@users.noreply.github.com",
+    "url": "https://jack5079.github.io"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jack5079/doge-meme-cli/issues"
