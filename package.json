@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Jack5079/doge-meme-cli#readme",
   "dependencies": {
     "console-png": "^1.2.1"
-  }
+  },
+  "bin": "./index.js"
 }
